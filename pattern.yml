@@ -15,8 +15,8 @@ lifecycle:
 metadata:
   organisation-id: onp
   pattern-categories:
-  - Governance
-  pattern-description: NoSQL
-  pattern-id: onp.AnotherName
-  pattern-name: AnotherName
-  pattern-version: '1.0'
+  - Alerting
+  pattern-description: AnotherNameClone
+  pattern-id: onp.AnotherNameClone
+  pattern-name: AnotherNameClone
+  pattern-version: 1.1.1
